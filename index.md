@@ -47,7 +47,7 @@ Please adhere to the following steps:
 
 ![](./images/pic6.png)
 
-**15 ->** Now everything is all set. You can go start presenting your Project 0 
+**15 ->** Now everything is all set. You can start presenting your Project 0 
 
 ![](./images/pic7.png)
 
