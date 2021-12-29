@@ -1,4 +1,4 @@
-Refer to the instructions on this site to ensure the success of Project 0 Presentations. Project 0 should be presented and recorded over Microsoft Teams. First, download and install the Microsoft Team app for your Desktop. You can download Teams app [here](https://www.microsoft.com/en-in/microsoft-teams/download-app) then install it. Make sure you logged in Teams using the same email id that you’ve registered with Revature. 
+Refer to the instructions on this site to ensure the success of Project 0 Presentations. Project 0 should be presented and recorded over Microsoft Teams. First, download and install the Microsoft Team app on your Desktop. You can download Teams app [here](https://www.microsoft.com/en-in/microsoft-teams/download-app) then install it. Make sure you logged in Teams using the same email id that you’ve registered with Revature. 
 
 Please adhere to the following steps:
   - [Record your Project 0 Presentation](./index.md#record-your-project-0-presentation)
