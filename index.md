@@ -55,18 +55,18 @@ Your Presentation should be **5 to 10 mins** recorded video and adhere to the fo
 
   - Introduce yourself  
   - Detailly describe your Project 
-  - Discuss tools & technologies used in the project, design patterns, and overall architecture considerations 
+  - Discuss tools & technologies used, design patterns implemented, and overall architecture considerations in this project
   - Include a live demo 
     - Showcase your code – You can talk about project structure & design patterns you’ve implemented (if any) 
-    - Run your application and executed all the user stories you’ve implemented 
-    - Must cover all user stories implemented in this Project 
-    - Ran JUnit test cases you’ve implemented (if any) 
+    - Run your application and execute all the user stories you’ve implemented 
+    - You should cover all user stories implemented in this Project in this recordings 
+    - Run JUnit test cases you’ve implemented (if any) 
     - Showcase your Log file (if any) 
   - Discuss challenges you’ve during this project 
-  - Discuss the ideas you’ve future enhancement 
+  - Discuss the ideas you’ve future enhancement (if you have)
   - Close your Project Presentation with a Thank you Note
 
-After that, follow below steps to submit your recordings:
+After that, follow below steps to submit your recording:
 
 **16 ->** Select **Stop Sharing** to stop showing your screen
 
