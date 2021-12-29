@@ -29,7 +29,7 @@ Please adhere to the following steps:
 
 ![](./images/pic3.png)
 
-**9 ->** It may ask you to **Invite people to join you**. But you can just close that pop up video
+**9 ->** It may ask you to **Invite people to join you**. But you can just close that pop up window
 
 ![](./images/pic4.png)
 
