@@ -67,7 +67,7 @@ After that, follow below steps to get your zoom recordings:
 
 ![](./images/image10.png)
 
-- Rename your video to **Project 0 Presentation - Your_Full_Name**. 
+- Rename your video file to **Project 0 Presentation - Your_Full_Name**.
 
 ![](./images/image11.png)
 
@@ -83,15 +83,17 @@ To upload recorded video to Google Drive and create a shareable link, please adh
 
 ![](./images/image12.png)
 
-- Now, Right click on the uploaded recorded video file and select **Get Link**
+- Now, Right click on the uploaded recorded video file and select **Get link**
 
 ![](./images/image13.png)
 
 - Next to Restricted, there is a down arrow. Click on that down arrow and change the permissions from Restricted to **Anyone with the link**.
 
-![](./images/images14.png)
+![](./images/image14.png)
 
 - Once Permission is updated, Click to the **Copy Link** to copy the shareable link to the Clipboard. Then, paste the link in the [Project 0 Submissions Form](https://forms.office.com/r/KNyE8qaezj).
+
+![](./images/image15.png)
 
 
 ## Push your Project 0 code to GitHub
