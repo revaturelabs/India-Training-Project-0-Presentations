@@ -1,4 +1,4 @@
-Refer to the instructions on this site to ensure the success of Project 0 Presentations. Project 0 should be presented and recorded over Zoom. First, download and install the Microsoft Team app on your Desktop. You can download Teams app [here](https://www.zoom.us/download) then install it. Make sure you logged in Zoom using the same email id that you’ve registered with Revature. 
+Refer to the instructions on this site to ensure the success of Project 0 Presentations. Project 0 should be presented and recorded over Zoom. First, download and install the Zoom app on your Desktop. You can download Zoom app [here](https://www.zoom.us/download) then install it. Make sure you logged in to Zoom using the same email id that you’ve registered with Revature. 
 
 Please adhere to the following steps:
   - [Record Project 0 Presentation using Zoom](./index.md#record-your-project-0-presentation)
@@ -7,6 +7,28 @@ Please adhere to the following steps:
   - [Submit resources link for Review](./index.md#submit-resources-link-for-review)
 
 ## Record Project 0 Presentation using Zoom
+
+- Open Zoom app and Click **New Meeting** to start an instant meeting.
+
+![](./images/image1.PNG)
+
+- After joining a Zoom meeting, you will be prompted to join the audio automatically. Now, Click **Join with Computer Audio**. Click on the **Start Video** at the bottom-right corner of the screen to switch ON your cam. Your camera and mic should be ON through out the presentation.
+
+![](./images/image2.PNG)
+
+- Click on the **Record** button located at your meeting controls to start recording your presentation. 
+
+![](./images/image3.PNG)
+
+- You will see the recording indicator in the top-left corner while recording is active. After the meeting has ended, Zoom will convert the recording so you can access the files.
+
+![](./images/image4.PNG)
+
+- Click **Share Screen** button located in your meeting controls and then Select **Screen** to share your entire screen for your presentation.
+
+![](./images/image5.PNG)
+
+- 
 
 
 
