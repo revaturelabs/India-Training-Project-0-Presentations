@@ -1,6 +1,6 @@
 Refer to the instructions on this site to ensure the success of Project 0 Presentations. Project 0 should be presented and recorded over Zoom. First, download and install the Zoom app on your Desktop. You can download Zoom app [here](https://www.zoom.us/download) then install it. Make sure you logged in to Zoom using the same email id that you’ve registered with Revature. 
 
-Please adhere to the following steps:
+Following are the steps to submit your project 0 presentation:
   - [Record Project 0 Presentation using Zoom](./index.md#record-your-project-0-presentation)
   - [Upload recorded video to Google Drive](./index.md#upload-recorded-video-to-google-drive)
   - [Push your Project 0 code to GitHub](./index.md#push-your-project-0-code-to-github)
@@ -91,7 +91,7 @@ To upload recorded video to Google Drive and create a shareable link, please adh
 
 ![](./images/image14.png)
 
-- Once Permission is updated, Click to the **Copy Link** to copy the shareable link to the Clipboard. Then, paste the link in the [Project 0 Submissions Form](https://forms.office.com/r/KNyE8qaezj).
+- Once Permission updated, Click to the **Copy Link** to copy the shareable link to the Clipboard. Then, paste the link in the [Project 0 Submissions Form](https://forms.office.com/r/KNyE8qaezj).
 
 ![](./images/image15.png)
 
