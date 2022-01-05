@@ -171,7 +171,7 @@ Now, your recording is ready. You can upload this video recording to Google Driv
  
  
 
-## Upload recorded video to Google Drive 
+## Upload the recorded video to Google Drive 
 
 Kindly adhere to the following steps to upload your recorded video to Google Drive and to create a shareable link. 
 
@@ -246,7 +246,7 @@ You can have a look at the [Sample README.md file template](https://github.com/P
  
  
 
-## Submit resources link for Review 
+## Submit resources link for the Review 
 
  
  
