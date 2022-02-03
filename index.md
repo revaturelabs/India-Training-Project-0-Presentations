@@ -80,6 +80,8 @@ Your Presentation should be **at least 5-10 mins** recorded video. Please adhere
 
   - Discuss tools & technologies used, design patterns implemented, and overall architecture considerations in this project 
 
+  - Showcase the ER diagram and talk about the relationshiop between your tables in the database
+
   - Include a live demo  
 
     - Showcase your code – You can talk about project structure & design patterns you’ve implemented (if any)  
